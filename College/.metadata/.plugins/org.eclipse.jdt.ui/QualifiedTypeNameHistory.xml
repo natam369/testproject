@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.AppRunnerException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.service.UniversityService"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.service.impl.UniversityServiceImpl"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.service.CollegeService"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.dao.UniversityDao"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.dao.daoimpl.UniversityDaoImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.sql.rowset.serial.SerialException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.dao.CollegeDao"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.service.impl.CollegeServiceImpl"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.dao.daoimpl.CollegeDaoImpl"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.CollegeServiceException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.entity.University"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.entity.Details"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.utility.DbConnection"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.DaoException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.UtilityException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.DuplicateUniversityException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.InvalidRatingException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.ServiceException"/>
+<fullyQualifiedTypeName name="com.CollegeRegistration.exceptions.NoSuchUniversityException"/>
+</qualifiedTypeNameHistroy>
